@@ -4,7 +4,7 @@ export default function Home() {
   const links = [
     {
       title: 'OnlyFans',
-      url: 'https://onlyfans.com/hairylola',
+      url: 'https://onlyfans.com/hairylola/c17',
       color: 'from-blue-500 to-blue-600',
     },
     {
